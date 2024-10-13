@@ -9,7 +9,7 @@ The project is currently in development. To get started:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/generic-placeholder-name/MBA-Generator.git
    ```
 
 2. Build the C++ code inside. 
