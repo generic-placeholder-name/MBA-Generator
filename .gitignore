@@ -1,0 +1,8 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore the test directory
+/test/
+
+# Ignore the Debug build directory
+/src/build/Debug/
